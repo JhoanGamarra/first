@@ -1,0 +1,12 @@
+{
+    "name": "jhoangamarra/hello-world",
+    "description": "my first package",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "jhoan@gamarra.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
